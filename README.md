@@ -23,7 +23,7 @@ This app is designed to be used by **Drivers** (to view and accept loads, and lo
 
 * **Backend API Repository:** [https://github.com/Tsweleng10/pbsa-logistics-api.git](https://github.com/Tsweleng10/pbsa-logistics-api.git)
 * **Live API URL:** [https://pbsa-logistics-api-production.up.railway.app/](https://pbsa-logistics-api-production.up.railway.app/)
-* **Demonstration Video:** `[https://youtube.com/shorts/KGOkvYmBWPA?feature=share]`
+* **Demonstration Video:** [https://youtube.com/shorts/KGOkvYmBWPA?feature=share](https://youtube.com/shorts/KGOkvYmBWPA?feature=share)
 * **Website Repository:** [https://github.com/Tsweleng10/pbsa-logistics-website.git](https://github.com/Tsweleng10/pbsa-logistics-website.git)
 
 ---
